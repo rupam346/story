@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hey i've started preparing a new project and i don't know what it's content 
 should be.
+=======
+hey i've started preparing a new dance-tutorial and i don't know from where i should start.
+>>>>>>> alien-plot
